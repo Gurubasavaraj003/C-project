@@ -1,5 +1,5 @@
 #include <stdio.h>
-reverse()
+int reverse()
 {
   char str[1000], rev[1000];
   int i, j, count = 0;
